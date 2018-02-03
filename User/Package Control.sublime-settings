@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"Emacs Pro Essentials",
+		"Package Control",
+		"PackageResourceViewer",
+		"Sass",
+		"SublimeLinter-eslint"
+	]
+}
