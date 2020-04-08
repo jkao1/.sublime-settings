@@ -1,14 +1,19 @@
 {
-	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
+	"binary_file_patterns":
+	[
+		"node_modules/*"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
 	"create_window_at_startup": false,
 	"detect_indentation": false,
 	"drag_text": false,
-	"font_size": 14,
+	"font_size": 15,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"scroll_past_end": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"word_wrap": "true"
+	"word_wrap": true
 }

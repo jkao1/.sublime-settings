@@ -68,5 +68,6 @@
         "key": "setting.auto_close_tags"
       }
     ]
-  }
+  },
+  { "keys": ["super+alt+e"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} }
 ]

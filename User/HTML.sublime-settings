@@ -1,3 +1,7 @@
 {
+	"extensions":
+	[
+		"html"
+	],
 	"tab-size": 4
 }
