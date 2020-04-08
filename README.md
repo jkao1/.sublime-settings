@@ -4,5 +4,5 @@ Packages, settings, and snippets for Sublime Text 3.
 
 ```sh
 $ cd ~/Library/Application\ Support/Sublime\ Text\ 3/
-$ git clone git@github.com:jkao1/.sublime-settings.git Packages
+$ git clone git@github.com:jsonkao/.sublime-settings-3.git Packages
 ```
