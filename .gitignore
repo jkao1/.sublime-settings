@@ -1,6 +1,4 @@
 .DS_Store
-
-Babel/
-Jade/
-PyV8/
-
+*
+!User/
+User/Package Control.cache

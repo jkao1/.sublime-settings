@@ -11,21 +11,19 @@
 		"DotENV",
 		"Emacs Pro Essentials",
 		"FuzzyFilePath",
-		"GoSublime",
-		"Handlebars",
+		"GitGutter",
+		"Gutter Color",
 		"Highlight Trailing Whitespace",
 		"JavaScript Enhancements",
-		"LESS",
+		"JsPrettier",
 		"Package Control",
 		"PackageResourceViewer",
 		"Pretty JSON",
 		"Sass",
 		"SideBarEnhancements",
-		"Spotify",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-shellcheck",
-		"Svelte",
-		"TerminalView"
+		"Svelte"
 	]
 }
